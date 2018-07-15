@@ -1,0 +1,7 @@
+lunedi'
+martedi'
+mercoledi'
+giovedi'
+venerdi'
+sabato
+domenica
