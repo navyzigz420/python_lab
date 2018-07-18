@@ -31,7 +31,7 @@ mio_sito_file =  open(path,'w', encoding='utf8')
 
 mio_sito_file.write(r_html)
 
-print("Ho generato il file "+path)
+#print("Ho generato il file "+path)
 mio_sito_file.close()
 
 # =============================================================================
