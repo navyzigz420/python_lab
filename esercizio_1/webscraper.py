@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 19 14:52:37 2018
-
-@author: Luca Passani
-"""
 
 import requests
 import re

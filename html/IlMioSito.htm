@@ -1,0 +1,10 @@
+
+import requests
+url = 'http://github.com'
+r = requests.get(url)
+r_html = r.text
+
+from bs4 import BeautifulSoup
+r.text = BeautifulSoup(testo)
+for div in r.text.find_all("div"):
+    print(div)
