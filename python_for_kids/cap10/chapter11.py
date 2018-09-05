@@ -15,3 +15,4 @@ def octagon(size, red, green, blue, outline):
             t.forward(size)
             t.right(45)
 octagon(100, 1,0,1, True)
+
